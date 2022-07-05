@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knightofzero69
-- 👀 I’m interested in developing games or bots
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in web dev...specifically speaking i am into front dev
+- 🌱 I’m currently learning js and react
 - 💞️ I’m looking to collaborate on nothing as of now
 - 📫 How to reach me ...my email:akshitt57@gmail.com
 
